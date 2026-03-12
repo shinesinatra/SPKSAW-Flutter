@@ -1,16 +1,27 @@
-# spksaw
+# SPKSAW Flutter
 
-A new Flutter project.
+## Deskripsi
+Aplikasi Sistem Pendukung Keputusan berbasis mobile menggunakan metode SAW (Simple Additive Weighting) yang dibangun dengan Flutter untuk membantu menentukan alternatif terbaik berdasarkan beberapa kriteria penilaian.
 
-## Getting Started
+## Fitur
+- Login Pengguna
+- Manajemen Data Kriteria
+- Manajemen Data Alternatif
+- Input Nilai Penilaian
+- Perhitungan Metode SAW
+- Menampilkan Ranking Hasil Keputusan
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter
+- Dart
+- PHP API
+- MySQL
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Menjalankan
+1. Clone repository
+2. Jalankan perintah `flutter pub get`
+3. Hubungkan dengan API backend
+4. Jalankan aplikasi menggunakan emulator atau perangkat Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Shine Sinatra
